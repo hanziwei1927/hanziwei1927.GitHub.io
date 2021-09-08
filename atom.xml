@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hanziwei1927.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-09-08T05:43:23.352Z</updated>
+    <title>无生在叙拉古</title>
+    <updated>2021-09-08T05:45:37.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hanziwei1927.github.io"/>
     <link rel="self" href="https://hanziwei1927.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>无生写字的地方</subtitle>
     <logo>https://hanziwei1927.github.io/images/avatar.png</logo>
     <icon>https://hanziwei1927.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 无生在叙拉古</rights>
     <entry>
         <title type="html"><![CDATA[宪法视角下色情言论与言论自由]]></title>
         <id>https://hanziwei1927.github.io/post/xian-fa-shi-jiao-xia-se-qing-yan-lun-yu-yan-lun-zi-you/</id>
