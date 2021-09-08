@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hanziwei1927.github.io</id>
+    <id>http://localhost:4000</id>
     <title>无生在叙拉古</title>
-    <updated>2021-09-08T05:45:37.699Z</updated>
+    <updated>2021-09-08T05:46:10.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hanziwei1927.github.io"/>
-    <link rel="self" href="https://hanziwei1927.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>无生写字的地方</subtitle>
-    <logo>https://hanziwei1927.github.io/images/avatar.png</logo>
-    <icon>https://hanziwei1927.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, 无生在叙拉古</rights>
     <entry>
         <title type="html"><![CDATA[宪法视角下色情言论与言论自由]]></title>
-        <id>https://hanziwei1927.github.io/post/xian-fa-shi-jiao-xia-se-qing-yan-lun-yu-yan-lun-zi-you/</id>
-        <link href="https://hanziwei1927.github.io/post/xian-fa-shi-jiao-xia-se-qing-yan-lun-yu-yan-lun-zi-you/">
+        <id>http://localhost:4000/post/xian-fa-shi-jiao-xia-se-qing-yan-lun-yu-yan-lun-zi-you/</id>
+        <link href="http://localhost:4000/post/xian-fa-shi-jiao-xia-se-qing-yan-lun-yu-yan-lun-zi-you/">
         </link>
         <updated>2021-09-08T05:40:12.000Z</updated>
         <content type="html"><![CDATA[<p><strong>摘要</strong>  言论自由之重要，于宪政民主社会至关重要。而色情言论常常作为言论自由的争议领域，如何界定色情言论管制与宪法权利保障，毫无疑问将关乎言论自由的定义与原则。本文从当下刑法管制色情言论的理由出发，运用伤害原则与冒犯原则分析管制色情言论的限度与边界，最后引入色情权利与公权力关系，用福柯的建构主义范式理解性权利与性秩序。</p>
@@ -79,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hanziwei1927.github.io/post/hello-gridea/</id>
-        <link href="https://hanziwei1927.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
